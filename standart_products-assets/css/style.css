@@ -1452,7 +1452,7 @@ html {
   width: 6rem;
   height: 6rem;
   border-radius: 50%;
-  background-image: url(/Shop/Standart_product/assets/user-img-1-100x100.png);
+  background-image: url(../photos/user-img-1-100x100.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -1485,7 +1485,7 @@ html {
   width: 6rem;
   height: 6rem;
   border-radius: 50%;
-  background-image: url(/Shop/Standart_product/assets/user-img-2-100x100.png);
+  background-image: url(../photos/user-img-2-100x100.png);
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
@@ -1533,7 +1533,7 @@ html {
 }
 .products .first-pr .pr-1 {
   width: 100%;
-  background-image: url(/standart_products-assets/photos/product-1.jpg);
+  background-image: url(../photos/product-1.jpg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -1564,7 +1564,7 @@ html {
 }
 .products .second-pr .pr-2 {
   width: 100%;
-  background-image: url(/standart_products-assets/photos/product-2.jpg);
+  background-image: url(../photos/product-2.jpg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -1595,7 +1595,7 @@ html {
 }
 .products .third-pr .pr-3 {
   width: 100%;
-  background-image: url(/standart_products-assets/photos/product-3.jpg);
+  background-image: url(../photos/product-3.jpg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
@@ -1626,7 +1626,7 @@ html {
 }
 .products .fourth-pr .pr-4 {
   width: 100%;
-  background-image: url(/standart_products-assets/photos/product-4.jpg);
+  background-image: url(../photos/product-4.jpg);
   background-size: 100%;
   background-position: center;
   background-repeat: no-repeat;
